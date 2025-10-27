@@ -185,7 +185,7 @@ export default function CaseStudy({
               <div className="absolute bottom-3 right-3 w-4 h-px bg-white/10"></div>
               <div className="absolute bottom-3 right-3 w-px h-4 bg-white/10"></div>
 
-              <div className="text-4xl text-iv-pink-500/20 mb-4 font-serif">"</div>
+              <div className="text-4xl text-iv-pink-500/20 mb-4 font-serif">&ldquo;</div>
               <p className="text-lg text-white/80 italic mb-6 font-light leading-relaxed">
                 {testimonial.quote}
               </p>
