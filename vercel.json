@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd iv-creative-deck && npm install && npm run build",
+  "devCommand": "cd iv-creative-deck && npm run dev",
+  "installCommand": "cd iv-creative-deck && npm install",
+  "framework": "nextjs",
+  "outputDirectory": "iv-creative-deck/.next"
+}
